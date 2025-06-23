@@ -1,4 +1,4 @@
-STUDENT_ID = "Kim_c2796806"
+STUDENT_ID = "Lynnyk"
 SOURCES = [
     "https://feeds.bbci.co.uk/news/world/rss.xml",
     "https://techcrunch.com/feed/",
